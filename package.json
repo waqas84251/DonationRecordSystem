@@ -1,8 +1,7 @@
-{
-  "name": "pos_website_screenshot",
-  "homepage": "https://waqas84251.github.io/posflowgallery/",
+  "name": "donation-record-system",
+  "homepage": "https://waqas84251.github.io/DonationRecordSystem/",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
